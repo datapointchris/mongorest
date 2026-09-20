@@ -6,6 +6,11 @@
 <h4 align="center">Flask App Serving MongoDB RESTful API Like a Champ<br />
 </h4>
 
+## Documentation
+
+- [API reference](api.md) — every route on the employee, role and department
+  collections, with the verb each one takes
+
 ## Resources
 
 [stripe Awesome API Docs Example](https://stripe.com/docs/api)
@@ -19,7 +24,6 @@
 [Microsoft Web API Best Practices](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
 
 [Real Python FastAPI](https://realpython.com/fastapi-python-web-apis/)
-
 
 ## License
 
